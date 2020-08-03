@@ -1,7 +1,7 @@
 import os
 import SCons.Util
 
-version = '0.13.0-pre'
+version = '0.14.1'
 
 env = Environment(
     CPPDEFINES = [
